@@ -1,3 +1,4 @@
 nc-venv
 __pycache__
 data
+logs
